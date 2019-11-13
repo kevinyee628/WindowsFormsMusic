@@ -1,0 +1,10 @@
+D:\大三上\C#\WindowsFormsMusic\WindowsFormsMusic\bin\Debug\WindowsFormsMusic.exe.config
+D:\大三上\C#\WindowsFormsMusic\WindowsFormsMusic\bin\Debug\WindowsFormsMusic.exe
+D:\大三上\C#\WindowsFormsMusic\WindowsFormsMusic\bin\Debug\WindowsFormsMusic.pdb
+D:\大三上\C#\WindowsFormsMusic\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.Properties.Resources.resources
+D:\大三上\C#\WindowsFormsMusic\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.csproj.GenerateResource.Cache
+D:\大三上\C#\WindowsFormsMusic\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.exe
+D:\大三上\C#\WindowsFormsMusic\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.pdb
+D:\大三上\C#\WindowsFormsMusic\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.csprojAssemblyReference.cache
+D:\大三上\C#\WindowsFormsMusic\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.csproj.CoreCompileInputs.cache
+D:\大三上\C#\WindowsFormsMusic\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.BoseMusic.resources
