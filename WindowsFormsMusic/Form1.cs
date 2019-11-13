@@ -10,29 +10,12 @@ using System.Windows.Forms;
 
 namespace WindowsFormsMusic
 {
-    public partial class BoseMusic : Form
+    public partial class BoseMusic : MetroFramework.Forms.MetroForm
     {
         public BoseMusic()
         {
             InitializeComponent();
         }
-
-        //查看音乐
-        private void Button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         //登录
         private void Button2_Click(object sender, EventArgs e)
         {
@@ -45,6 +28,9 @@ namespace WindowsFormsMusic
             {
                 MessageBox.Show("登录成功！");
                 //TODO:新的窗口
+                Music music = new Music();
+                music.Show();
+                this.Hide();
 
             }
             else
@@ -65,10 +51,19 @@ namespace WindowsFormsMusic
 
         private void Signup_Click(object sender, EventArgs e)
         {
+            signup signup = new signup();
+            signup.Show();
+            this.Hide();
+        }
+
+        private void BoseMusic_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BackPwdbutton_Click(object sender, EventArgs e)
+        {
 
         }
     }
-    //public partial class BoseMusicSuccess : Form
-    //{
-    //}
 }
